@@ -14,6 +14,8 @@ public class Prueba {
 		}
 		else if(j>=2) {
 			System.out.println(j);
+		}else if(h>=1) {
+			System.out.println(h);
 		}
 		else if(k>=1) {
 			System.out.println(k);
