@@ -3,13 +3,13 @@ public class Prueba {
 
 	public static void main(String[] args) {
 		
-		int i=2;
+		int i=3;
 		boolean exit=false;
 		
 		if(i>=1) {
 			System.out.println(exit);
 		}
-		else {
+		else if(i<0){
 			System.out.println(i);
 		}
 
