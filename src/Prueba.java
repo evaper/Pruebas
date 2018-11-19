@@ -3,7 +3,7 @@ public class Prueba {
 
 	public static void main(String[] args) {
 		
-		int i=3,j=1;
+		int i=3,j=1,k=1;
 		boolean exit=false;
 		
 		if(i>=1) {
@@ -14,6 +14,9 @@ public class Prueba {
 		}
 		else if(j>=2) {
 			System.out.println(j);
+		}
+		else if(k>=1) {
+			System.out.println(k);
 		}
 
 	}
